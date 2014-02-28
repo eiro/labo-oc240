@@ -1,0 +1,28 @@
+clef description
+amount Montant
+bnf_reserved Réservé BDF
+currency Code monnaie
+date Date d’échange
+date Date de règlement
+flow Code flux
+garbage Inutilisé
+issuer_account Numéro de compte émetteur
+issuer_bank Code établissement émetteur
+issuer_bank_id Identifiant client
+issuer_branch Code guichet émetteur
+issuer_country Numéro National d’Emetteur
+label1 Libellé 1
+label2 Libellé 2
+label_site Libellé abréviatif de domiciliation
+misc Code application + divers
+operation Code opération
+payer Nom du donneur d’ordre
+recipient_account Numéro de compte destinataire
+recipient_bank Code établissement destinataire
+recipient_branch Code guichet destinataire
+recipient_branch Code guichet destinataire
+recipient_name Nom du destinataire
+record_id Numéro de l’enregistrement
+record_type Code enregistrement
+
+

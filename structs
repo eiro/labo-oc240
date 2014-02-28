@@ -1,0 +1,86 @@
+emiter
+2 Code enregistrement
+6 Numéro de l’enregistrement
+2 Inutilisé
+6 Date d’échange
+1 Code monnaie
+4 Inutilisé
+5 Code établissement émetteur
+5 Code guichet émetteur
+11 Numéro de compte émetteur
+# 4 Identifiant client
+# 7 Code application + divers
+24 Nom du donneur d’ordre
+6 Inutilisé
+168 Inutilisé
+
+total
+2 Code enregistrement
+6 Numéro de l’enregistrement
+2 Code opération
+6 Date de règlement
+1 Code monnaie
+4 Inutilisé
+5 Code établissement émetteur
+5 Code guichet émetteur
+11 Numéro de compte émetteur
+# 4 Identifiant client
+# 7 Code application + divers
+24 Nom du donneur d’ordre
+6 Inutilisé
+156 Inutilisé
+12 Montant
+
+credit
+2 Code enregistrement
+6 Numéro de l’enregistrement
+2 Code opération
+6 Date de règlement
+1 Code monnaie
+4 Inutilisé
+5 Code établissement émetteur
+5 Code guichet émetteur
+11 Numéro de compte émetteur
+# 4 Identifiant client
+# 7 Code application + divers
+24 Nom du donneur d’ordre
+6 Inutilisé
+5 Réservé BDF
+5 Code établissement destinataire
+5 Code guichet destinataire
+11 Numéro de compte destinataire
+24 Nom du destinataire
+6 Réservé BDF
+24 Libellé abréviatif de domiciliation
+32 Libellé 1
+32 Libellé 2
+10 Inutilisé
+2 Code flux
+12 Montant
+
+debit
+2 Code enregistrement
+6 Numéro de l’enregistrement
+2 Code opération
+6 Date de règlement
+1 Code monnaie
+4 Inutilisé
+5 Code établissement émetteur
+5 Code guichet émetteur
+11 Numéro de compte émetteur
+# 4 Identifiant client
+# 7 Code application + divers
+24 Nom du donneur d’ordre
+6 Numéro National d’Emetteur
+5 Réservé BDF
+5 Code établissement destinataire
+5 Code guichet destinataire
+11 Numéro de compte destinataire
+24 Nom du destinataire
+6 Réservé BDF
+24 Libellé abréviatif de domiciliation
+32 Libellé 1
+32 Libellé 2
+10 Inutilisé
+2 Code flux
+12 Montant
